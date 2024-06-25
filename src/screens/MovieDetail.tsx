@@ -1,11 +1,10 @@
 import React from 'react'
 import { View, Text } from 'react-native'
 
-export default function Favorite(): JSX.Element {
+export default function Movie(): JSX.Element {
   return (
     <View>
-      <Text>Favorite</Text>
+      <Text>Movie Detail Page</Text>
     </View>
   )
 }
-
